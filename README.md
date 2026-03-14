@@ -16,7 +16,6 @@
 - 🔧 Experienced in **SolidWorks** for mechanical design
 - ⚙️ Skilled in **MATLAB Simulink** including **Simscape** and **Multibody** components
 - 🔬 Exploring **ANSYS Workbench** for simulation and FEA
-- 🌐 Planning Final Year Project on **IoT & ML Based Predictive Maintenance**
 - 📫 Reach me at **husnainalix005@gmail.com**
 
 ---
