@@ -9,7 +9,6 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Studying **Mechatronics & Control Engineering** at **UET Lahore, Pakistan**
 - 🐍 Passionate about **Python** — from procedural scripts to full OOP systems
 - 🤖 Building AI-powered projects using **Minimax, Alpha-Beta Pruning & Heuristic Evaluation**
 - 📊 Working with **NumPy & Matplotlib** for data analysis and visualization
@@ -47,7 +46,7 @@
 ### 🔢 [15 Puzzle Game](https://github.com/husnainalix77/HusnainPythonPortfolio/tree/main/15-Puzzle-Game)
 > NxN sliding puzzle with guaranteed solvable board generation using inversion counting logic.
 
-👉 **[View All Projects](https://github.com/husnainalix77/HusnainPythonPortfolio)**
+👉 **[View All Projects](https://github.com/husnainalix77?tab=repositories)**
 
 ---
 
